@@ -39,10 +39,5 @@
 
 ###
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=MennaSaeed22&locale=en&mode=daily&hide_border=false&border_radius=5&card_width=450&ring=515a5a&fire=dc7633&currStreakLabel=f1c40f&currStreakNum=f1c40f&sideNums=f1c40f&sideLabels=f1c40f&dates=515a5a&background=f8f9f9 " height="250" alt="streak graph" />
-</div>
-
-###
-<div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=mennasaeed22&label=Profile%20views&color=0e75b6&style=flat" alt="mennasaeed22" /> </p>
 </div>
