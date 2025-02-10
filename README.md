@@ -3,12 +3,14 @@
 
 <img align="right" width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
 &nbsp;
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 🌱 **I’m currently learning** `Deep learning` `IoT`
+- 🌱 **I’m currently learning** `Deep learning` `IoT` `Flutter`
 - 📄 **Know about my experiences:** [CV](https://alexuuni-my.sharepoint.com/:b:/g/personal/cds_mennatullah71722_alexu_edu_eg/EUFnbCNMGl9CipaDv1yNV4cBY10lTULR0oV5lv3bpS0iiw?e=BSSLeF)
 - ✉ **How to reach me:** mennaallahsaeed22@gmail.com
 
-### 📈 Languages and Tools:
+<h3 align="left">🛠 Language and tools</h3>
+
 [<img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" height="30">](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap logo" height="30">](https://getbootstrap.com/) 
 [<img src="https://skillicons.dev/icons?i=php" alt="PHP logo" height="30">](https://www.php.net/) 
@@ -25,8 +27,11 @@
 [<img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"/>](https://www.arduino.cc/)
 [<img src="https://skillicons.dev/icons?i=c" alt="c logo" height="30">](https://www.learn-c.org/)
 [<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" height="30">](https://cplusplus.com/)
+[<img src="https://skillicons.dev/icons?i=dart" alt="dart logo" height="30">](https://dart.dev/)
+[<img src="https://skillicons.dev/icons?i=flutter" alt="flutter logo" height="30">](https://flutter.dev/)
 
-### 📫 Social :
+
+### 📫 Social
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
 [<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30">](https://twitter.com/mennasaed111) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30">](https://kaggle.com/mennaallahsaed) 
@@ -40,4 +45,12 @@
 ###
 <div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=mennasaeed22&label=Profile%20views&color=0e75b6&style=flat" alt="mennasaeed22" /> </p>
+</div>
+
+<h3 align="left">🔥My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mennasaeed22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
