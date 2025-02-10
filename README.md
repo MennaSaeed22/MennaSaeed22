@@ -20,7 +20,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"/>](https://numpy.org/)
 [<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30">](https://seaborn.pydata.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30">](https://scikit-learn.org/stable/index.html)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="30">](https://www.tensorflow.org/)
+[<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="30">](https://www.tensorflow.org/)
 [<img src="https://skillicons.dev/icons?i=r" alt="R logo" height="30">](https://www.r-project.org/)
 [<img src="https://skillicons.dev/icons?i=java" alt="Java logo" height="30">](https://www.java.com/en/)
 [<img src="https://skillicons.dev/icons?i=git" alt="Git logo" height="30">](https://git-scm.com/)
