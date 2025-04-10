@@ -5,7 +5,7 @@
 &nbsp;
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🌱 **I’m currently learning** `Deep learning` `IoT` `Flutter`
+- 🌱 **I’m currently learning** `Deep learning` `IoT`
 - 📄 **Know about my experiences:** [CV](https://alexuuni-my.sharepoint.com/:b:/g/personal/cds_mennatullah71722_alexu_edu_eg/EUFnbCNMGl9CipaDv1yNV4cBY10lTULR0oV5lv3bpS0iiw?e=BSSLeF)
 - ✉ **How to reach me:** mennaallahsaeed22@gmail.com
 
