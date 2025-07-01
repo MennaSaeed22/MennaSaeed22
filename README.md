@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Menna Allah Saeed</h1>
-<h3 align="center">Data Science Student</h3>
+<h3 align="center">Aspiring AI Engineer</h3>
 
 <img align="right" width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
 &nbsp;
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🌱 **I’m currently learning** `Deep Learning` `Robotics`
+- 🌱 **I’m currently learning** `Generative AI` `Robotics`
 - 📄 **Know about my experiences:** [CV](https://alexuuni-my.sharepoint.com/:b:/g/personal/cds_mennatullah71722_alexu_edu_eg/EUFnbCNMGl9CipaDv1yNV4cBY10lTULR0oV5lv3bpS0iiw?e=c6jJ7d)
 - ✉ **How to reach me:** mennaallahsaeed22@gmail.com
 
