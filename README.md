@@ -32,7 +32,7 @@
 
 
 ### 📫 Social
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">](https://www.linkedin.com/in/mennasaeed22/) 
 [<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30">](https://twitter.com/mennasaed111) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30">](https://kaggle.com/mennaallahsaed) 
 ###
