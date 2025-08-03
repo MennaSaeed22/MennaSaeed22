@@ -6,7 +6,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 - 🌱 **I’m currently learning** `Generative AI` `Robotics`
-- 📄 **Know about my experiences:** [CV](https://alexuuni-my.sharepoint.com/:b:/g/personal/cds_mennatullah71722_alexu_edu_eg/EUFnbCNMGl9CipaDv1yNV4cBY10lTULR0oV5lv3bpS0iiw?e=EX6plK)
+- 📄 **Know about my experiences:** [CV](https://alexuuni-my.sharepoint.com/:b:/g/personal/cds_mennatullah71722_alexu_edu_eg/EUFnbCNMGl9CipaDv1yNV4cBY10lTULR0oV5lv3bpS0iiw?e=tKi8Nq)
 - ✉ **How to reach me:** mennaallahsaeed22@gmail.com
 
 <h3 align="left">🛠 Language and tools</h3>
