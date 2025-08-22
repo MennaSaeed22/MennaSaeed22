@@ -8,7 +8,8 @@
 - 🌱 **I’m currently learning** `Generative AI` `Robotics`
 - 📄 **Know about my experiences:** [CV](https://alexuuni-my.sharepoint.com/:b:/g/personal/cds_mennatullah71722_alexu_edu_eg/EUFnbCNMGl9CipaDv1yNV4cBY10lTULR0oV5lv3bpS0iiw?e=tKi8Nq)
 - ✉ **How to reach me:** mennaallahsaeed22@gmail.com
-
+- 🌐 **Portfolio:** [mennasaeed22.github.io](https://mennasaeed22.github.io/portfolio/)
+  
 <h3 align="left">🛠 Language and tools</h3>
 
 [<img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" height="30">](https://developer.mozilla.org/en-US/docs/Web/javascript)
